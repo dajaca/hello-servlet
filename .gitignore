@@ -1,1 +1,5 @@
 /target/ 
+*.war
+*.war
+*.class
+*.properties
